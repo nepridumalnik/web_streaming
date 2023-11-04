@@ -3,11 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
-	"os"
-
-	// "mime/multipart"
 	"net/http"
-	// "path/filepath"
+	"os"
 )
 
 func main() {
